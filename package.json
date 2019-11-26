@@ -1,0 +1,49 @@
+{
+  "name": "@alessiodf/universal-delegate-monitor",
+  "version": "0.9.0",
+  "title": "Universal Delegate Monitor",
+  "description": "Check the health of the active delegates on various ARK-powered networks along with their estimated forging times. You can also monitor specific delegates of your choice to check their statuses and forging times at a glance.",
+  "logo": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/master/logo.png",
+  "main": "index.js",
+  "author": "Alessio",
+  "license": "GPLv3",
+  "permissions": [
+    "ALERTS",
+    "COMPONENTS",
+    "HTTP",
+    "MENU_ITEMS",
+    "PROFILE_CURRENT",
+    "ROUTES",
+    "STORAGE",
+    "TIMERS",
+    "UI_COMPONENTS",
+    "WEBSOCKET"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessiodf/universal-delegate-monitor.git"
+  },
+  "desktop-wallet": {
+    "categories": [
+      "utility"
+    ],
+    "minVersion": "2.6"
+  },
+  "keywords": [
+    "utility",
+    "universal",
+    "delegate",
+    "monitor",
+    "network",
+    "health",
+    "forging",
+    "@arkecosystem",
+    "desktop-wallet",
+    "plugin"
+  ],
+  "homepage": "https://github.com/alessiodf/universal-delegate-monitor/",
+  "urls": [
+    "^"
+  ],
+  "manifest": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/master/manifest.json"
+}
