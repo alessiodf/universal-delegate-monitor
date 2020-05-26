@@ -33,5 +33,12 @@
         "urls": [
             "wss://www.arkfun.io/ws/networks/qredit/"
         ]
+    },
+   "f8e625f678c4720968340501a5f2d3c88bc509c638d9ef9964c3da561dd33c44": {
+        "name": "uns.network",
+        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/uns.png",
+        "urls": [
+            "wss://www.arkfun.io/ws/networks/uns/"
+        ]
     }
 }
