@@ -20,7 +20,14 @@
             "wss://www.arkfun.io/ws/networks/blockpool/"
         ]
     },
-    "5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193": {
+    "e8c5243c53bd6809a52f0c6fdcfd2c9ee3410e0650243e82df5074d9ea6405ae": {
+        "name": "nOS Devnet",
+        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/nos.png",
+        "urls": [
+            "wss://www.arkfun.io/ws/networks/nos/"
+        ]
+    },
+   "5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193": {
         "name": "Qredit",
         "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/qredit.png",
         "urls": [
