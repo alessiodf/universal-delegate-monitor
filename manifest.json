@@ -20,8 +20,22 @@
             "wss://www.arkfun.io/ws/networks/blockpool/"
         ]
     },
+    "ed14889723f24ecc54871d058d98ce91ff2f973192075c0155ba2b7b70ad2511": {
+        "name": "Lisk - Mainnet",
+        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/lisk-mainnet.png",
+        "urls": [
+            "wss://www.arkfun.io/ws/networks/lisk-mainnet/"
+        ]
+    },
+    "da3ed6a45429278bac2666961289ca17ad86595d33b31037615d4b8e8f158bba": {
+        "name": "Lisk - Testnet",
+        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/lisk-testnet.png",
+        "urls": [
+            "wss://www.arkfun.io/ws/networks/lisk-testnet/"
+        ]
+    },
     "e8c5243c53bd6809a52f0c6fdcfd2c9ee3410e0650243e82df5074d9ea6405ae": {
-        "name": "nOS Devnet",
+        "name": "nOS",
         "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/nos.png",
         "urls": [
             "wss://www.arkfun.io/ws/networks/nos/"
