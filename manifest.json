@@ -34,25 +34,11 @@
             "wss://www.arkfun.io/ws/networks/lisk-mainnet/"
         ]
     },
-    "da3ed6a45429278bac2666961289ca17ad86595d33b31037615d4b8e8f158bba": {
-        "name": "Lisk - Testnet",
-        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/lisk-testnet.png",
-        "urls": [
-            "wss://www.arkfun.io/ws/networks/lisk-testnet/"
-        ]
-    },
-   "5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193": {
+   "7fadccaae136bfa7655aa1e1f2de440804abbf64af9f380ccfbef916e18b485c": {
         "name": "Qredit",
         "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/qredit.png",
         "urls": [
             "wss://www.arkfun.io/ws/networks/qredit/"
-        ]
-    },
-   "f8e625f678c4720968340501a5f2d3c88bc509c638d9ef9964c3da561dd33c44": {
-        "name": "uns.network",
-        "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/uns.png",
-        "urls": [
-            "wss://www.arkfun.io/ws/networks/uns/"
         ]
     }
 }
