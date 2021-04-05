@@ -28,7 +28,7 @@
         ]
     },
     "ed14889723f24ecc54871d058d98ce91ff2f973192075c0155ba2b7b70ad2511": {
-        "name": "Lisk - Mainnet",
+        "name": "Lisk",
         "icon": "https://raw.githubusercontent.com/alessiodf/universal-delegate-monitor/assets/lisk-mainnet.png",
         "urls": [
             "wss://www.arkfun.io/ws/networks/lisk-mainnet/"
